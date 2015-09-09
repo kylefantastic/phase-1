@@ -35,7 +35,8 @@ basis with a 6 step process for my time management:
 
 #### What is a shell?
 A shell is an interpreter. It’s a processor that execute commands in a certain language. The UNIX shell is both, an interpreter and a programming language.
-###### What is "bash?"
+
+#### What is "bash?"
 The name bash is a programmer joke, and stands for bourne-again-shell because it is build on an improvement of 1977 Bourne shell command-line interpreter. Nowadays, bash is the default shell of OSX.
 
 #### What was the most challenging for you in going through this material?
