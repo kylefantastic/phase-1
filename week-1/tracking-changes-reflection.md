@@ -22,15 +22,15 @@ HEAD can be understood as the "current branch". When you switch branches with `g
 
 *Comitted:* The files are stored locally on your machine.
 
-*Modified:* The file has been changed but not comitted yet (yellow).
+*Modified:* The file has been changed but not comitted yet.
 
-*Staged:* The modified file is marked and ready to be comitted (green).
+*Staged:* The modified file is marked and ready to be comitted.
 
-**It's funny because it also have 3 stages:** ***the working stage***, **the staging area stage*** and the **.git repository stage.***
+**It's funny because it also have 3 stages:** ***the working stage***, **the staging area stage*** **and the** **.git repository stage.***
 
 For example:
 
-You modify files in a directory. -> ***working directory stage_***
+You modify files in a directory. -> ***working directory stage***
 
 From here you can add a snapshot of the file to your staging area -> `git add` -> ***staging area stage***
 
