@@ -1,7 +1,7 @@
 # 1.5 Tracking changes
 
 #### How does tracking and adding changes make developers' lives easier?
-Tracking and adding changes make developers' lives easy because it gives them more control on their projects by allowing to keep track of what happens. This comes super handy If a developers needs to access a previous version of the project if the current one is broken for some reasons, or to prevent for loosing data by human errors.
+Tracking and adding changes make developers' lives easy because it gives them more control on their projects by allowing to keep track of what happens and what happened. This comes super handy If a developers needs to access or restore a previous version of the project if the current one is broken or need hotfixes for some reasons. For those reasons, it's also a safe way to prevent for loosing data for human computing errors.
 
 #### What is a commit?
 A commit is a command `git commit` that is used to record changes to the repository.
