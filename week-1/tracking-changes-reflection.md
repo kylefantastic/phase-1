@@ -9,7 +9,7 @@ After you have staged the content you want to snapshot with the `git add` comman
 
 #### What are the best practices for commit messages?
 1. Use a short summary (50 characters or less).
-2. Use imperative forms of verbs, "Fix bug" and not "Fixed bug" or "Fixes bug."
+2. Use imperative forms of verbs. "Add typeface" and not "Addxed typeface" or "Adds typeface"
 3. Further paragraphs come after blank lines.
 4. Bullet points are okay, too but pay attention using the correct markup.
 5. Use a hanging indent.
