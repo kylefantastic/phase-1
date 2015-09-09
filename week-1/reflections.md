@@ -18,11 +18,17 @@ I know me, and I have learnt when I am the most productive in the past: early in
 #### What is your overall plan for Phase 0 time management?
 During the phase 0, I’m planning to use a strict pomodoro approach organized on a weekly
 basis with a 6 step process for my time management:
+
 1. Find out how much efforts the week challenges requires and try to monitor the amount of time I need to devote to each challenge (level of difficulty from 1 to 3).
+
 2. Plan time-boxed working sessions on dedicated days of the week, taking care of having nothing around that can disturb me at the moment of the session. Starting to organize the sessions, for example I’d start a week with something that look hard to me so I have some extra time to think about it during the week before I commit it).
+
 3. Make accurate estimations of time needed to achieve certain types of (complex) activities, trying to match activities based on same topics on the same days/sessions.
+
 4. For each work session take time to: recap before you start and review once done, before committing.
+
 5. Set the week time table according to the amount of time I have and what have to be done. Setting realistic mode to “on” in order to avoid sleepless nights! On the weekly time-table, allo extra time-slots for your personal extra-goals.
+
 6. Keep in mind that my personal objective final objective beyond basic/completion objectives is improving. That’s why I’ll also manage some time to keep organized records of my practice so I can convince myself I’m actually getting better week after week.
 
 # 1.2 The command line
