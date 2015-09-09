@@ -30,11 +30,17 @@ HEAD can be understood as the "current branch". When you switch branches with `g
 
 ###### Write a handy cheatsheet of the commands you need to commit your changes?
 `git status` -> Show the working tree satus
+
 `git pull` -> - Fetch from and integrate with another repository/branch
+
 `git checkout -b branch-name` Switch branches or restore working tree files
+
 `git add` -> Add file contents to the index (ordered list containing files paths)
+
 `git commit -m "A nice commit message"` -> Record changes to the repository with a message
+
 `git push origin some-branch` -> Update remote refs along with associated objects
+
 `git branch -D branchname` ->  Delete (-D) branches (can also list or create with different options than -D)
 
 
