@@ -26,7 +26,7 @@ HEAD can be understood as the "current branch". When you switch branches with `g
 
 *Staged:* The modified file is marked and ready to be comitted.
 
-**It's funny because it also have 3 stages:** ***the working stage***, **the staging area stage*** **and the** **.git repository stage.***
+**It's funny because it also have 3 stages:** ***the working stage***, ***the staging area stage*** **and the** ***.git repository stage.***
 
 For example:
 
