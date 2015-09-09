@@ -9,9 +9,9 @@ After you have staged the content you want to snapshot with the `git add` comman
 
 #### What are the best practices for commit messages?
 1. Use a short summary (50 characters or less).
-2. Use imperative forms of verbs. "Add typeface" and not "Added typeface" or "Adds typeface"
-3. Further paragraphs come after blank lines.
-4. Bullet points are okay, too but pay attention using the correct markup.
+2. Use imperative forms of verbs. "Add typeface" and not "Added typeface" or "Adds typeface".
+3. Use native paragraphs and line behaviors, don't add more than one blank line.
+4. Don't abuse bullet-points, stick up using the correct markup/markdown.
 5. Use a hanging indent.
 
 #### What does the HEAD^ argument mean?
