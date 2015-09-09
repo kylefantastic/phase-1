@@ -18,7 +18,7 @@ After you have staged the content you want to snapshot with the `git add` comman
 HEAD can be understood as the "current branch". When you switch branches with `git checkout`, the HEAD revision changes to point to the tip of the new branch.
 
 #### What are the 3 stages of a git change and how do you move a file from one stage to the other?
-***Git have 3 states that files reside in:***
+**Git have 3 states that files reside in:**
 
 *Comitted:* The files are stored locally on your machine.
 
@@ -26,15 +26,15 @@ HEAD can be understood as the "current branch". When you switch branches with `g
 
 *Staged:* The modified file is marked and ready to be comitted (green).
 
-***It's funny because it also have 3 stages:*** **the working stage_**, **the staging area stage_** and the **.git repository stage._**
+**It's funny because it also have 3 stages:** ***the working stage***, **the staging area stage*** and the **.git repository stage.***
 
 For example:
 
-You modify files in a directory. -> **working directory stage_**
+You modify files in a directory. -> ***working directory stage_***
 
-From here you can add a snapshot of the file to your staging area -> `git add` -> **staging area stage_**
+From here you can add a snapshot of the file to your staging area -> `git add` -> ***staging area stage***
 
-You do a commit of files as they are in staging area -> `git commit` -> **.git repository stage_**
+You do a commit of files as they are in staging area -> `git commit` -> ***.git repository stage***
 
 #### Write a handy cheatsheet of the commands you need to commit your changes?
 `git status` -> Show the working tree satus
