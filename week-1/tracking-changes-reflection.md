@@ -1,17 +1,17 @@
 # 1.5 Tracking changes
 
 #### How does tracking and adding changes make developers' lives easier?
-Tracking and adding changes make developers' lives easy because it gives them more control on their projects by allowing to keep track of what happens and what happened. This comes super handy If a developers needs to access or restore a previous version of the project if the current one is broken. For those reasons, it's also a safe way to prevent for loosing data for human computing errors.
+Tracking and adding changes make developers' lives easy because it gives them more control on their projects by allowing to keep an eye on what happens and what happened. This comes super handy If a developers needs to access or restore a previous version of the project if the current one is broken. For those reasons, it's also a safe way to prevent for loosing data for human computing errors.
 
 #### What is a commit?
 A commit is a command `git commit` that is used to record changes to the repository.
-After you have staged the content you want to snapshot with the `git add` command, you run `git commit` to actually record the snapshot. Git records your name and email address with every commit you make, then, running `git status` should return `nothing to commit (working directory clean)`
+After you have staged the content you want to snapshot with the `git add` command, you run `git commit` to actually record the snapshot. Git records your name and email address with every commit you make, then, running `git status` should return `nothing to commit (working directory clean)`.
 
 #### What are the best practices for commit messages?
 1. Use a short summary (50 characters or less).
 2. Use imperative forms of verbs. "Add typeface" and not "Added typeface" or "Adds typeface".
 3. Use native paragraphs and line behaviors, don't add more than one blank line.
-4. Don't abuse bullet-points, stick up using the correct markup/markdown.
+4. Stick up using the correct markup/markdown.
 5. Use a hanging indent.
 
 #### What does the HEAD^ argument mean?
@@ -39,7 +39,7 @@ You do a commit of files as they are in staging area -> `git commit` -> ***.git 
 #### Write a handy cheatsheet of the commands you need to commit your changes?
 `git status` -> Show the working tree satus
 
-`git pull` -> - Fetch from and integrate with another repository/branch
+`git pull` -> Fetch from and integrate with another repository/branch
 
 `git checkout -b branch-name` Switch branches or restore working tree files
 
@@ -56,4 +56,4 @@ A pull request is an user action done on the github website by hitting the pull 
 A good practice consists in deleting branchs after they have been merged so you can pull a newer, cleaner, fresher version of the project to work on future improvements.
 
 #### Why are pull requests preferred when working with teams?
-Pull requests let you tell others about changes you've made on a repo. The idea is that after a pull request, other members of the team can review the request, discuss it and even commit some changes if needed.
+Pull requests let you tell others about changes you've made on a repo. The idea is that after a pull request, other members of the team can review the request, discuss it and even commit some changes before integrating it to the master-branch if it is an improvement. Also, the interest of pull requests is that even if team members are working on different features, they still can correct typos and 404 if they find on the other members parts of the code, it's a permanent collaborative iteration.
