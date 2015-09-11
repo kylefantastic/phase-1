@@ -14,7 +14,7 @@ A commit is a command `git commit` that is used to record changes to the reposit
 5. Use a hanging indent.
 
 #### What does the HEAD^ argument mean?
-HEAD can be understood as the "current branch". When you switch branches with `git checkout`, the HEAD revision changes to point to the tip of the new branch.
+HEAD can be understood as the "current branch". When you switch branches with `git checkout`, the HEAD revision changes to point to the tip of the new branch. HEAD simply means the current commit - the one you're working on. HEAD^ means the last one, that you just made. HEAD-n means the nth head ago a.k.a parents.
 
 #### What are the 3 stages of a git change and how do you move a file from one stage to the other?
 **Git have 3 states that files reside in:**
