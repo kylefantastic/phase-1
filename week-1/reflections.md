@@ -73,6 +73,25 @@ The list of commands that are listed below are the most important commands to do
 
 `help` Displays a list of shell built-in commands. When used with one of these commands’s name as an argument like help someCommandFromTheList it will display useful informations about this command.
 
+# 1.3 Git basics
+
+#### Write an explanation of and compare git and GitHub to one another.
+Git is a software that track changes allowing VCS (version control management). It’s an open source project. It helps developers to look back in time so see what happened on some specific parts of the development of the project. When working with three different people on the same project for example, git helps keeping one only project everyone collaborates on by sending files in and tracking changes instead of having three projects.. It’s a management control system. you First have to download it and then it lives locally on your computer. You generally use the command line and Git-ish commands to help you save and merge difference versions (branches) of your project..
+On the other hand, gitHub is a platform, it means it does not lives on your computer. It’s the exact opposite of git in that sense because it lives remotely on the internet: it’s an online ‘hub’ for programmers to share code at the same time on common projects.
+By the way, comparing git and gitHub is like comparing an Photo-Booth and Instagram. One is a program you run exclusively on the command line (git) and the other one is a service based on the git system, working online (on servers) at a world-wide level.
+
+#### Explain what version control is and how GitHub helps with it.
+As mentioned, Github and git are two slightly different things. Git is a piece of software running locally that help you handle version control. Once installed, you can create a new project directory with the command line and also tell Git to keep an history of changes made inside this directory. Version control (git) is keeping changes you make on the directory from steps to steps by taking snapshots every time you commit a change. This comes very handy when you are working with other people in a team because you can push and pull changes from/to other people machines. This way everybody is always up to date, working on the same versions of a file. Version control. Github came up with the idea of hosting online the common working directories you have to share with your coworkers, also known as repositories. This is how Github helps with version control, and even it nowadays, Github provides tons of incredible futures like social media network for the IT community, website dynamic creation and more, it’s mainly a repository host. Some very important thing to understand is that, default repositories are public, making Github more than a simple web server hosting ‘repos’. Github is a collaborative tool and place where developers can collaborate freely in order to create better software, together.
+
+#### Why do developers use version control (git)?
+Developers use git because it facilitates tracking (collaborative) changes to files, making possible and easy the (collaborative) history tracking of all the files that compose the project (design, code, license…).
+Thanks to merging options of version control systems, developers can merge changes, at the same time, and this with precision and ease. It’s also fast modern and light weight and provides a nice working experience for any kind of knowledge worker that need to keep track of what has been done.
+In fact, in the field of web developemment, when a developer is trying to achieve a piece of code, he can sometimes have to try several different approaches from a precise step he achieved in the past. So developers will have to try different approaches, creating several different files. Once they figure out the solution they will commit it on a branch of the project so it can be integrated later in the master project branch of the project if it is an improvement.
+
+#### What is a commit?
+A commit is a like an official “saving” of a code file. Every time, a small task has been done or some improvement has been achieved, a developer is committing the related code to his branch. When working on software, the master branch is always expected to work perfectly, even at a lower and well-tested version of the project, the master must always be ready to be run, and thats the reason why when you’re working on improvements you’re not directly committing to the master branch.
+Considering a commit is usually useful in the context of collaborating with others developers, it’s important to understand that it is not only a piece of code, but also a nicely written text message explaining, what has been added to the project, why and how it has been added, and if needed, the side-effects it can have on the project.
+
 # 1.4 Forking and Cloning
 
 #### How to create a repo:
