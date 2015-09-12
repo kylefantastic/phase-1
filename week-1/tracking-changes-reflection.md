@@ -38,7 +38,8 @@ You do a commit of files as they are in staging area -> `git commit` -> ***.git 
 #### Write a handy cheatsheet of the commands you need to commit your changes?
 `git status` -> Show the working tree satus
 
-`git pull` -> Fetch from and integrate with another repository/branch
+`git pull` -> Fetch from and integrate with another repository/branch (Because git pull is a little a magic thing it seems to be a better practice using `git fetch` then `git merge` in order to learn about the different types of branch in git.)
+
 
 `git checkout -b branch-name` Switch branches or restore working tree files
 
