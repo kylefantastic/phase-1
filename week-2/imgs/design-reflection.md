@@ -23,22 +23,22 @@ Once you have worked on all those points you should have an overall idea of how 
 
 **Phase 3: Design**
 
-Target audience is one of the key factors taken into consideration. A site aimed at teenagers, for example, will look much different than one meant for a financial institution. As part of the design phase, it is also important to incorporate elements such as the company logo or colors to help strengthen the identity of your company on the web site.
-Your web designer will create one or more prototype designs for your web site. This is typically a .jpg image of what the final design will look like. Often times you will be sent an email with the mock-ups for your web site, while other designers take it a step further by giving you access to a secure area of their web site meant for customers to view work in progress.
-Either way, your designer should allow you to view your project throughout the design and development stages. The most important reason for this is that it gives you the opportunity to express your likes and dislikes on the site design.
-In this phase, communication between both you and your designer is crucial to ensure that the final web site will match your needs and taste. It is important that you work closely with your designer, exchanging ideas, until you arrive at the final design for your web site.
-Then development can begin…
+Target audience is one of the key factors taken into consideration. Regarding to the aim of the website, the look-n-feel should be totally different. For example, a one-page site build for a teen-ager music band will use different visual codes than a website designed for U.S ambassy.
+
+Then, the designer is going to use a prototyping tool, such as photoshop, or sketch in order to go from the mock-ups to the wireframe step. For this purpose, he will create several prototypes of the site, including some details and ideas he can have about the code (JS/CSS most of the time). It's important that developers and designers collaborate on the design process so they can both keep on eye on the potential constraints one solution can imply. Once the prototype is ready, generally wireframes, the development can begin…
 
 **Phase 4: Development**
 
-The developmental stage is the point where the web site itself is created. At this time, your web designer will take all of the individual graphic elements from the prototype and use them to create the actual, functional site.
-This is typically done by first developing the home page, followed by a “shell” for the interior pages. The shell serves as a template for the content pages of your site, as it contains the main navigational structure for the web site. Once the shell has been created, your designer will take your content and distribute it throughout the site, in the appropriate areas.
+The developmental is the step where the web site itself is built. Teams generally start by building an index followed by a "shell" for the interior pages. Shell can be understood like a template for the content pages of the site and contains the navigational structure of the site. Once the shell has been created, your designer will take your content and distribute it throughout the site, in the appropriate areas such as images, typos, css and so on.
 
 **Phase 5: Testing and Delivery**
 
 At this point, your web designer will attend to the final details and test your web site. They will test things such as the complete functionality of forms or other scripts, as well last testing for last minute compatibility issues (viewing differences between different web browsers), ensuring that your web site is optimized to be viewed properly in the most recent browser versions.
+
 A good web designer is one who is well versed in current standards for web site design and development. The basic technologies currently used are HTML and CSS (Cascading Style Sheets). As part of testing, your designer should check to be sure that all of the code written for your web site validates. Valid code means that your site meets the current web development standards – this is helpful when checking for issues such as cross-browser compatibility as mentioned above.
+
 Once you give your web designer final approval, it is time to deliver the site. An FTP (File Transfer Protocol) program is used to upload the web site files to your server. Some web designers offer domain name registration and web hosting services as well, or have recommendations as to where you can host your site. Once these accounts have been setup, and your web site uploaded to the server, the site should be put through one last run-through. This is just precautionary, to confirm that all files have been uploaded correctly, and that the site continues to be fully functional.
+
 Other final details include plugin installation (for WordPress or other CMS driven web sites and SEO (Search Engine Optimization). SEO is the optimization of your web site with elements such as title, description and keyword tags which help your web site achieve higher rankings in the search engines. The previously mentioned code validation is something that plays a vital role in SEO, as well. There are many WordPress plugins available that further enhance the default WordPress functionality – many of which directly relate to improving your SEO, as well.
 
 **Phase 6: Maintenance**
@@ -55,12 +55,13 @@ Other maintenance type items include regular site backups, WordPress upgrades, a
 
 **1. Finest web works presented as products, maybe:**
 
-  1. Websites
-  2. scripts
+  1. Applications
+  2. Scripts
   3. CSS wizardries
-  4. Applications
+  4. Websites
   5. Design templates
-  6. ...
+  6. Tools
+  7. ...
 
 **2. Link to blog article sumarry**
 
