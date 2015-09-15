@@ -55,31 +55,25 @@ Other maintenance type items include regular site backups, WordPress upgrades, a
 #### What is your site's primary goal or purpose? What kind of content will your site feature?
 **My site primary goad is being my creative coding vitrine. Allowing users to interact with various kind of contents such as showing my work and my implication in the community:**
 
-1. Finest web works presented as products, maybe:
+**1. Finest web works presented as products, maybe:**
 
--> Websites
+  1. Websites
+  2. scripts
+  3. CSS wizardries
+  4. Applications
+  5. Design templates
+  6. ...
 
--> scripts
+**2. Link to blog article sumarry**
 
--> Css wizardries
+  1. posts summary -> post content
 
--> applications
+**3. About me (img+text)  and link in order to get in touch with me:**
 
--> Design templates
-
-2. Link to blog article sumarry
-
--> posts summary -> post content
-
-3. About me (img+text)  and link in order to get in touch with me:
-
--> Twitter
-
--> Mail
-
--> Linkedin
-
--> Github?
+  1. Twitter
+  2. Mail
+  3. Linkedin
+  4. Github?
 
 #### What is your target audience's interests and how do you see your site addressing them?
 Considering my site as a portfolio I’d say my audience is a mix of front-end designer, developers, business people and IT more largely community.
