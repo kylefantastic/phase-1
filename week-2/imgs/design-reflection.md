@@ -76,21 +76,18 @@ Other maintenance type items include regular site backups, WordPress upgrades, a
   4. Github?
 
 #### What is your target audience's interests and how do you see your site addressing them?
-Considering my site as a portfolio I’d say my audience is a mix of front-end designer, developers, business people and IT more largely community.
+Considering my site as a portfolio I’d say my audience is a mix of **front-end designers**, **developers**, **business people and wider IT community**.
 My site is addressing them as an audience aware of coding, using technical appropriate langage instead of pseudo-communicant approach.
 
 #### What is the primary "action" the user should take when coming to your site?
-Scrolling down in order to discover the work list should be the first action when coming to my site.
-Work list should always start featuring my latest work.
-Also as the main component of the page, work list, must be well designed to occupy page space and attack visitor eye by using lovely placeholder image/icon for each project.
-An important thing is keeping in mind last work always have to be featured first, but only finest works have to be part of the list.
+**Scrolling down** in order to discover the work list should be the first action when coming to my site. Work list should always start featuring my latest work.
+Also as the main component of the page, work list, must be well designed to occupy page space and attack visitor eye by using lovely placeholder image/icon for each project. An important thing is keeping in mind last work always have to be featured first, but only finest works have to be part of the list.
 
-#### Do you want them to search for information, contact you, or see your
-portfolio? It's ok to have several actions at once, or different actions for different kinds of visitors.
-On one hand, first time visitor:
+#### Do you want them to search for information, contact you, or see your portfolio? It's ok to have several actions at once, or different actions for different kinds of visitors.
+**On one hand, first time visitor:**
 He should check my latest work because your last work, even if not your favorite always show you are up to date with fresh front-end frameworks and latest technologies. Then, navigate to other works if they want to know more about my works.
 
-#### On the other hand, used visitor:
+**On the other hand, used visitor:**
 He should have an easy access to links to get in touch with me without needing to scroll. Maybe also link to the blog)
 
 #### What are the main things someone should know about design and user experience?
