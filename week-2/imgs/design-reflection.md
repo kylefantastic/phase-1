@@ -3,7 +3,8 @@
 ![](/week-2/imgs/site-map.png)
 
 #### We suggest using the relative path instead of the absolute path. Can you think of why?
-**About relative and absolute paths: Definition and advantages.**
+**About relative and absolute paths:**
+
 In order to remember what is the difference between absolute and relative path, it’s easy: an absolute path will always include de domain naim of a website, such as http://… when a relative link will point to a path. On clicking a relative link, the web browser takes him to the location of the site and this is the reason why you can only use relative when linking contents of your own site. Absolute links will be used to link external ressources such as other websites.
 
 #### What are the 6 Phases of Web Design?
@@ -54,28 +55,21 @@ Other maintenance type items include regular site backups, WordPress upgrades, a
 #### What is your site's primary goal or purpose? What kind of content will your site feature?
 **My site primary goad is being my creative coding vitrine. Allowing users to interact with various kind of contents such as showing my work and my implication in the community:**
 
-1. First ordered list item
-2. Another item
-⋅⋅* Unordered sub-list.
-1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
-4. And another item.
+1. Finest web works presented as products, maybe:
+-> Websites
+-> scripts
+-> Css wizardries
+-> applications
+-> Design templates
 
-1. Finest web works presented as products:
-⋅⋅* Websites
-⋅⋅* scripts
-⋅⋅* Css wizardries
-⋅⋅* applications
-⋅⋅* Design templates
+2. Link to blog article sumarry
+-> posts summary -> post content
 
-**2.Blog**
-⋅⋅*posts summary -> post contents
-
-**3.About me (img+text)  and link in order to get in touch with me:
-⋅⋅* Twitter
-⋅⋅* Mail
-⋅⋅* Linkedin
-⋅⋅* Github?
+3.About me (img+text)  and link in order to get in touch with me:
+-> Twitter
+-> Mail
+-> Linkedin
+-> Github?
 
 #### What is your target audience's interests and how do you see your site addressing them?
 Considering my site as a portfolio I’d say my audience is a mix of front-end designer, developers, business people and IT more largely community.
