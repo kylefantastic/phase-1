@@ -33,22 +33,13 @@ The developmental is the step where the web site itself is built. Teams generall
 
 **Phase 5: Testing and Delivery**
 
-At this point, your web designer will attend to the final details and test your web site. They will test things such as the complete functionality of forms or other scripts, as well last testing for last minute compatibility issues (viewing differences between different web browsers), ensuring that your web site is optimized to be viewed properly in the most recent browser versions.
+At this point, your web designer will attend to the final details and test your web site. They will test things such as the complete functionality of forms or other scripts ensuring that your web site is optimized to be viewed properly in the most recent browser versions. A good web designer is one who is well versed in current standards for web site design and development. Valid code means that your site meets the current web development standards – this is helpful when checking for issues such as cross-browser compatibility as mentioned above. Then, it is time to deliver the site with a FTP program is used to upload the web site files to your server.
 
-A good web designer is one who is well versed in current standards for web site design and development. The basic technologies currently used are HTML and CSS (Cascading Style Sheets). As part of testing, your designer should check to be sure that all of the code written for your web site validates. Valid code means that your site meets the current web development standards – this is helpful when checking for issues such as cross-browser compatibility as mentioned above.
-
-Once you give your web designer final approval, it is time to deliver the site. An FTP (File Transfer Protocol) program is used to upload the web site files to your server. Some web designers offer domain name registration and web hosting services as well, or have recommendations as to where you can host your site. Once these accounts have been setup, and your web site uploaded to the server, the site should be put through one last run-through. This is just precautionary, to confirm that all files have been uploaded correctly, and that the site continues to be fully functional.
-
-Other final details include plugin installation (for WordPress or other CMS driven web sites and SEO (Search Engine Optimization). SEO is the optimization of your web site with elements such as title, description and keyword tags which help your web site achieve higher rankings in the search engines. The previously mentioned code validation is something that plays a vital role in SEO, as well. There are many WordPress plugins available that further enhance the default WordPress functionality – many of which directly relate to improving your SEO, as well.
+Other final details include plugin installation for analytics and SEO purposes. Basically adding javascript tags that will help your web site achieve higher rankings in the search engines and track your visitors.
 
 **Phase 6: Maintenance**
 
-The development of your web site is not necessarily over, though. One way to bring repeat visitors to your site is to offer new content or products on a regular basis. Most web designers will be more than happy to continue working together with you, to update the information on your web site. Many designers offer maintenance packages at reduced rates, based on how often you anticipate making changes or additions to your web site.
-If you prefer to be more hands on, and update your own content, there is something called a CMS (Content Management System) such as WordPress can be implemented to your web site. This is something that would be decided upon during the Planning stage. With a CMS, your designer will utilize online software to develop a database driven site for you.
-A web site driven by a CMS gives you the ability to edit the content areas of the web site yourself. You are given access to a back-end administrative area, where you can use an online text editor (similar to a mini version of Microsoft Word). You’ll be able to edit existing content this way, or if you are feeling more adventurous, you can even add new pages and content yourself. The possibilities are endless!
-It’s really up to you as far as how comfortable you feel with updating your own web site. Some people prefer to have all the control so that they can make updates to their own web site the minute they decide to do so. Others prefer to hand off the web site entirely, as they have enough tasks on-hand that are more important for them to handle directly.
-That’s where the help of a your web designer comes in, once again, as they can take over the web site maintenance for you – one less thing for you to do is always a good thing in these busy times!
-Other maintenance type items include regular site backups, WordPress upgrades, additional plugin installation, etc.
+For clients that prefer to be more hands on, and update their own content, there is something called a CMS. With a Content Managing System, your designer will utilize online software to develop a database driven site for you. A web site driven by a CMS gives you the ability to edit the content areas of the web site yourself. You are given access to a back-end administrative area, where you can use an online text editor. Other maintenance type items include regular site backups, WordPress upgrades, additional plugin installation, etc.
 
 #### What is your site's primary goal or purpose? What kind of content will your site feature?
 **My site primary goad is being my creative coding vitrine. Allowing users to interact with various kind of contents such as showing my work and my implication in the community:**
@@ -84,22 +75,21 @@ Also as the main component of the page, work list, must be well designed to occu
 
 #### Do you want them to search for information, contact you, or see your portfolio? It's ok to have several actions at once, or different actions for different kinds of visitors.
 **On one hand, first time visitor:**
-He should check my latest work because your last work, even if not your favorite always show you are up to date with fresh front-end frameworks and latest technologies. Then, navigate to other works if they want to know more about my works.
+He should check my latest work because your last work, even if not your favorite always show you are up to date with fresh front-end frameworks and latest technologies. Then, navigate to other works if they want to know more about my previous works.
 
 **On the other hand, used visitor:**
-He should have an easy access to links to get in touch with me without needing to scroll. Maybe also link to the blog)
+He should have an easy access to links to get in touch with me without needing to scroll. ( Also, maybe link to the blog)
 
 #### What are the main things someone should know about design and user experience?
-As our industry’s technologies and methodologies advance making websites and web apps becoming more complex.
+As industry’s technologies and methodologies advance making websites and web apps becoming more complex.
 Fifteen years ago, users were interacting with static contents because of the basic technologies and fabrication processes. Nowadays, thanks to new technologies, the user is exposed to various, rich and interactives experiences, making the web project success hinging on one thing: how does users perceive it.
 Unconsciously, every time an user becomes a visitor of your website, he is asking himself, how easy is the website to use, how pleasant, and how much he is enjoying navigating on your website.
 Design and UX are asking those questions and trying to find the most appropriate solutions in order to provide to the user a decent, fresh and up-to-date experience while browsing the site.
 
 #### What is user experience design and why is it valuable?
-User experience (abbreviated as UX) is how a person feels when interfacing with a system. The system could be a website, a web application or desktop software and, in modern contexts, is generally denoted by some form of human-computer interaction (HCI). User experience design consists in making the experience as good as possible for the user by designing it.
-Those who work on UX (called UX designers) study and evaluate how users feel about a system, looking at such things as ease of use, perception of the value of the system, utility, efficiency in performing tasks and so forth.
-Nowadays, with so much emphasis on user-centered design, describing and justifying the importance of designing and enhancing the user experience seems almost unnecessary. We could simply say, “It’s important because it deals with our users’ needs — enough said,” and everyone would probably be satisfied with that.
-Additionally, users have been accessing websites in an increasing number of ways: mobile devices, a vast landscape of browsers, different types of Internet connections.
+UX solve problems! It is basicaly how a user feels when interfacing with a website, a web application or desktop software. User experience design consists in making the experience as good as possible for the user by designing it.
+UX designers study and evaluate how users feel about a system. looking at such things as ease of use, perception of the value of the system, site heatmaps, utility, efficiency in performing tasks and so forth.
+Users have been accessing websites in an increasing number of ways: mobile devices, a vast landscape of browsers, different types of Internet connections. UX designers have to think a new, cross-device and cross-browsers ways to create their projects, one project working on all plateforms will always be better for the client to work with and also easier to maintain than X projects for X platforms. qED Valuable.
 
 #### Which parts of the challenge did you find tedious?
-Reflecting on User experience was hard because I worked one year as an Ui/Ux designer and there are so much things to say.
+Reflecting on User experience was tedious because I worked one year as an Ui/Ux designer and there are so much things to say.
