@@ -56,19 +56,29 @@ Other maintenance type items include regular site backups, WordPress upgrades, a
 **My site primary goad is being my creative coding vitrine. Allowing users to interact with various kind of contents such as showing my work and my implication in the community:**
 
 1. Finest web works presented as products, maybe:
+
 -> Websites
+
 -> scripts
+
 -> Css wizardries
+
 -> applications
+
 -> Design templates
 
 2. Link to blog article sumarry
+
 -> posts summary -> post content
 
-3.About me (img+text)  and link in order to get in touch with me:
+3. About me (img+text)  and link in order to get in touch with me:
+
 -> Twitter
+
 -> Mail
+
 -> Linkedin
+
 -> Github?
 
 #### What is your target audience's interests and how do you see your site addressing them?
