@@ -8,17 +8,20 @@ In order to remember what is the difference between absolute and relative path, 
 
 #### What are the 6 Phases of Web Design?
 **Information Gathering**
+
 First of all a designer must understand who he works for and what are the corporate values the client wants to corroborate through the design of his project. It means the designer must have a deep understanding of both the field of expertise of the client and his audience in order to achieve his client’s goals.
 That the reason why the beginning of the process is usually a meeting where the designer is asking as much questions as possible to the client.
 A second step of creative agencies doing web design generally involve presenting a moldboard with appropriate references for the client, in order to understand what kind of project he needs and if you’re on the good direction. At this step you may also start to have many idea, that the reason why gathering must be done in an organized .txt file you want to keep update all along the project.
 Next step, planning.
 
 **Planning**
+
 Referring to what you understood of your client needs: navigation, degree of pixel perfectness, responsiveness you have to start considering what technologies will need to be implemented.
 At this phase you have already sketched a site-map in order to have an idea of the amount of work required by each part of the project. It’s important to understand that some clients are going to need basic things that won’t require much time and some others will want more complex implementations such as CMS or APIs. An other important though about client is that, often, they don’t event know what they need so you have to teach them what is a CMS and the interest of using it for example.
 Once you have worked on all those points you should have an overall idea of how long the whole process of building the client dream app will take and you can start organize your time.
 
 **Design**
+
 Target audience is one of the key factors taken into consideration. A site aimed at teenagers, for example, will look much different than one meant for a financial institution. As part of the design phase, it is also important to incorporate elements such as the company logo or colors to help strengthen the identity of your company on the web site.
 Your web designer will create one or more prototype designs for your web site. This is typically a .jpg image of what the final design will look like. Often times you will be sent an email with the mock-ups for your web site, while other designers take it a step further by giving you access to a secure area of their web site meant for customers to view work in progress.
 Either way, your designer should allow you to view your project throughout the design and development stages. The most important reason for this is that it gives you the opportunity to express your likes and dislikes on the site design.
@@ -26,16 +29,19 @@ In this phase, communication between both you and your designer is crucial to en
 Then development can begin…
 
 **Development**
+
 The developmental stage is the point where the web site itself is created. At this time, your web designer will take all of the individual graphic elements from the prototype and use them to create the actual, functional site.
 This is typically done by first developing the home page, followed by a “shell” for the interior pages. The shell serves as a template for the content pages of your site, as it contains the main navigational structure for the web site. Once the shell has been created, your designer will take your content and distribute it throughout the site, in the appropriate areas.
 
 **Testing and Delivery**
+
 At this point, your web designer will attend to the final details and test your web site. They will test things such as the complete functionality of forms or other scripts, as well last testing for last minute compatibility issues (viewing differences between different web browsers), ensuring that your web site is optimized to be viewed properly in the most recent browser versions.
 A good web designer is one who is well versed in current standards for web site design and development. The basic technologies currently used are HTML and CSS (Cascading Style Sheets). As part of testing, your designer should check to be sure that all of the code written for your web site validates. Valid code means that your site meets the current web development standards – this is helpful when checking for issues such as cross-browser compatibility as mentioned above.
 Once you give your web designer final approval, it is time to deliver the site. An FTP (File Transfer Protocol) program is used to upload the web site files to your server. Some web designers offer domain name registration and web hosting services as well, or have recommendations as to where you can host your site. Once these accounts have been setup, and your web site uploaded to the server, the site should be put through one last run-through. This is just precautionary, to confirm that all files have been uploaded correctly, and that the site continues to be fully functional.
 Other final details include plugin installation (for WordPress or other CMS driven web sites and SEO (Search Engine Optimization). SEO is the optimization of your web site with elements such as title, description and keyword tags which help your web site achieve higher rankings in the search engines. The previously mentioned code validation is something that plays a vital role in SEO, as well. There are many WordPress plugins available that further enhance the default WordPress functionality – many of which directly relate to improving your SEO, as well.
 
 **Maintenance**
+
 The development of your web site is not necessarily over, though. One way to bring repeat visitors to your site is to offer new content or products on a regular basis. Most web designers will be more than happy to continue working together with you, to update the information on your web site. Many designers offer maintenance packages at reduced rates, based on how often you anticipate making changes or additions to your web site.
 If you prefer to be more hands on, and update your own content, there is something called a CMS (Content Management System) such as WordPress can be implemented to your web site. This is something that would be decided upon during the Planning stage. With a CMS, your designer will utilize online software to develop a database driven site for you.
 A web site driven by a CMS gives you the ability to edit the content areas of the web site yourself. You are given access to a back-end administrative area, where you can use an online text editor (similar to a mini version of Microsoft Word). You’ll be able to edit existing content this way, or if you are feeling more adventurous, you can even add new pages and content yourself. The possibilities are endless!
@@ -47,6 +53,14 @@ Other maintenance type items include regular site backups, WordPress upgrades, a
 
 #### What is your site's primary goal or purpose? What kind of content will your site feature?
 **My site primary goad is being my creative coding vitrine. Allowing users to interact with various kind of contents such as showing my work and my implication in the community:**
+
+1. First ordered list item
+2. Another item
+⋅⋅* Unordered sub-list.
+1. Actual numbers don't matter, just that it's a number
+⋅⋅1. Ordered sub-list
+4. And another item.
+
 1. Finest web works presented as products:
 ⋅⋅* Websites
 ⋅⋅* scripts
