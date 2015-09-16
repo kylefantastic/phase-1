@@ -1,10 +1,10 @@
 # 2.4 Wireframing
 
-## Site index:
+## Site index wireframe:
 
 ![](/week-2/wireframe-index.png)
 
-## Blog index:
+## Blog index wireframe:
 
 ![](/week-2/wireframe-blog-index.png)
 
@@ -13,9 +13,13 @@ A wireframe (or page schematic, screen blueprint) is a is a visual guide that re
 
 #### What are the benefits of wireframing?
 Wireframing focuses and benefits on:
+
 **1. The range of functions available:** helps the teams to have a global and visual understanding of every web component involved for the development of the project.
+
 **2. The relative priorities of the information and functions:** architecting information of the page, usually using type sizes to create different levels of reading.
+
 **3. The rules for displaying certain kinds of information:** Many web components are not statics, so wireframing is also aware of components behaviors. for example: “What happens when I :hover this part of the site?”
+
 **4. The effect of different scenarios on the display:** A next step in wire framing consists in working on user scenarios, trying to imagine all possible navigations between the features of the site, how intuitive they are and how they can be made even more intuitive.
 
 So basically, wireframing helps the teams to have a global and visual understanding of every web component involved for the development of the project.
