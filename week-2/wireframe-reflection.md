@@ -8,6 +8,10 @@
 
 ![](/week-2/wireframe-blog-index.png)
 
+## Blog index onclick article:
+
+![](/week-2/wireframe-blog-index-onclick.png)
+
 #### What is a wireframe?
 A wireframe *(or page schematic, screen blueprint)* is a is a visual guide that represents the skeletal framework of a website. This can be realized by a non-technical person but it is usually a designer work. Most of the time, wireframing consists in developing the graphical part of the human-machine interface. The wireframe depicts the page layout orarrangement of the website’s content, including interface elements and navigational systems, and how they work together.
 
